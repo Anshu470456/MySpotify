@@ -15,7 +15,7 @@ Welcome to the Spotify Clone App built with React Native! Dive into the world of
 
 The Spotify Clone App is a React Native application designed to provide users with an immersive music streaming experience. With features like playlist management, audio playback controls, and personalized recommendations, users can enjoy their favorite tunes on the go.
 
-<img src="./src/images/screen1.png" alt="Home Screen" height="400" width="200"/> <img src="./src/images/screen2.png" alt="Home Screen" height="400" width="200"/>
+<img src="./src/images/screen1.png" alt="Home Screen" height="400" width="200"/>            <img src="./src/images/screen2.png" alt="Home Screen" height="400" width="200"/>
 
 ## Features
 
